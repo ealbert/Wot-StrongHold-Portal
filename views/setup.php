@@ -21,6 +21,7 @@ $(document).ready(function(){
 						<label for="application_id" class="control-label">
 							ID Aplikacji <a href="https://eu.wargaming.net/developers/applications/" target="_BLANK"><span class="glyphicon glyphicon-question-sign"></span></a>
 							<i>(ip:<?php echo $_SERVER['SERVER_ADDR'] ?>)</i>
+							<i>Hello There</i>
 						</label>
 						<input type="text" class="form-control" name="application_id" id="application_id" placeholder=""  tabindex="2"/>
 					</div>
